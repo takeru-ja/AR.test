@@ -54,7 +54,8 @@ h1{
     font-size: 4vmin;
     color: rgb(55, 55, 55);
     margin: 20px 20px auto 20px;
-    animation: huwa 3s 4s;
+    opacity :0;
+    animation: huwa 3s 4s forwards;
 }
 @keyframes huwa{
     0%{
