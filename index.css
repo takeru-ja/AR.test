@@ -6,6 +6,9 @@
 .AR{
     background-color: rgb(247, 179, 77);
 }
+.bg{
+    margin-top: 50px;
+}
 model-viewer{
     width: 100%;
     height: 300px;
